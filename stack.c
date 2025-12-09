@@ -74,3 +74,7 @@ static void reallocate(Stack * stack)
 	stack->contents = tmp;
 }
 
+void PrintSentence()
+{
+	printf("hello world\n");
+}
